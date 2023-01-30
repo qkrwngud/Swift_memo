@@ -12,8 +12,7 @@ struct MainListView: View {
     @EnvironmentObject var store : MemoStore
     
     @State private var showComposer: Bool = false;
-    //https://www.youtube.com/watch?v=O7fZ2ZvEKoA&ab_channel=KxCoding
-    // 32분 40초
+
     var body: some View {
         NavigationView {
             List(store.list){ memo in

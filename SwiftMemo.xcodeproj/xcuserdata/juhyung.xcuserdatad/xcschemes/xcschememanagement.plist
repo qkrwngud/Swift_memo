@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>SwiftMemo 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>SwiftMemo.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>410F19D42986759600F13999</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>410F19E42986759700F13999</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>410F19EE2986759700F13999</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

@@ -36,7 +36,7 @@ struct DetailView: View {
         .navigationBarTitleDisplayMode(.inline)
         
         .toolbar {
-            ToolbarItemGroup(placement: .bottomBar){
+            ToolbarItemGroup(placement: .automatic){
                 Button{
                     showComposer = true
                 }label: {

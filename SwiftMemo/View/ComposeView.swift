@@ -18,7 +18,9 @@ struct ComposeView: View {
     
     var body: some View {
         NavigationView {
-            VStack {
+            HStack {
+                
+                // 글씨 쓸수있게 하는거
                 TextEditor(text: $content)
                     .padding()
                     .onAppear {
